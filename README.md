@@ -18,3 +18,10 @@ I have implemented the following data science methods to analyze the data:
 5. Now, you can run the code.
 
 # Visualizations
+![image](https://github.com/abdullahtahir-cs/ecg-data-analysis-for-arrhythmia-detection/assets/151562660/89dc6fa6-318a-41a9-8cdd-45fb9b730b73)
+
+![image](https://github.com/abdullahtahir-cs/ecg-data-analysis-for-arrhythmia-detection/assets/151562660/ae48512a-6e54-4a94-bf88-5bbadf60751c)
+
+![image](https://github.com/abdullahtahir-cs/ecg-data-analysis-for-arrhythmia-detection/assets/151562660/53647b85-16f2-4ae4-93d8-af8d3792791e)
+
+![image](https://github.com/abdullahtahir-cs/ecg-data-analysis-for-arrhythmia-detection/assets/151562660/d163ee88-256b-4e5b-b5bc-477dc447fae2)
